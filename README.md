@@ -7,7 +7,6 @@ Nothing serious here. [Elitesparkle](https://github.com/elitesparkle/) runs [Nex
 For all undocumented changes, [click here](https://github.com/nexus-patch-notes/nexus-patch-notes.github.io/commits/main/).
 
 ## Dec 25, 2025
-- Nexus Patch Notes updated! Here is a list of the latest changes.
 - All documented and undocumented changes to Battlegrounds from 2019 to today added.
 - Names of Heroes and Battlegrounds added near icons in the Patches tab, so that we can use [Ctrl + F] for searching them. The layout has been changed as a consequence.
 - Clicking on the change types in the legend (PTR to Live, Undocumented) now jumps to the next Patch Notes featuring the same change type instead of jumping to Patch Notes featuring any change type.
@@ -19,7 +18,6 @@ For all undocumented changes, [click here](https://github.com/nexus-patch-notes/
 
 
 ## Nov 26, 2025
-- Nexus Patch Notes updated! Here is a list of the latest changes.
 - Navigation bar reorganized to have the Home button on the left.
 - Releases information (Abilities and Talents) added for 70% of the Heroes.
 - Last Updated column in the Heroes table no longer takes into account Bug Fixes.
